@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 AOS.init();
 
 // MOOCs Cards
@@ -210,7 +209,6 @@ const showCards2 = () => {
   );
   timeline.innerHTML = output;
 };
-=======
 AOS.init();
 
 // MOOCs Cards
@@ -422,5 +420,4 @@ const showCards2 = () => {
   );
   timeline.innerHTML = output;
 };
->>>>>>> beabc99994f6b50ac4eb1d69f9405e8deb521b59
 document.addEventListener("DOMContentLoaded", showCards2);

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 
 window.onload = function () {
@@ -36,7 +35,6 @@ window.onload = function () {
       }
     }, 1000);
   }
-=======
 
 
 window.onload = function () {
@@ -74,5 +72,4 @@ window.onload = function () {
       }
     }, 1000);
   }
->>>>>>> beabc99994f6b50ac4eb1d69f9405e8deb521b59
 };
